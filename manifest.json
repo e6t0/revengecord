@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "id": "com.custom.audiobooster",
+  "name": "Audio Booster HUD",
+  "description": "Smooth vertical black glass audio booster with stereo and input gain.",
+  "author": "User",
+  "version": "1.0.0",
+  "dependencies": {
+    "revenge.api": { "version": ">=1" },
+    "discord": { "version": "*" }
+  },
+  "dist": {
+    "script": "index.js"
+  }
+}
