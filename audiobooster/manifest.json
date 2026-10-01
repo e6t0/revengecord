@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "id": "com.custom.audiobooster",
+  "name": "Audio Booster HUD",
+  "description": "Smooth vertical black glass audio booster",
+  "author": "User",
+  "version": "1.0.0",
+  "dist": {
+    "script": "index.js"
+  }
+}
